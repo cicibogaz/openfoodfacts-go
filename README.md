@@ -4,19 +4,19 @@
 
 ## About
 
-This library is for accessing [OpenFoodFacts](http://world.openfoodfacts.org/) data for food product, ingredients and nutritional data from within your go application. You can also get the Nutri-Score and the Eco-Score
+This library is for accessing [Open Food Facts](https://world.openfoodfacts.org/) data for food product, ingredients and nutritional data from within your go application. You can also get the Nutri-Score and the Eco-Score
 
-Use of the OpenFoodFacts database is subject to the [OpenFoodFacts Terms of Use](http://world.openfoodfacts.org/terms-of-use), please read them before using this library in your application.
+Use of the Open Food Facts database is subject to the [Open Food Facts Terms of Use](https://world.openfoodfacts.org/terms-of-use), please read them before using this library in your application.
 
-This library is copyright © 2019-2021 OpenFoodFacts. All rights reserved. Use of this library is governed by the MIT license which can be found in the [LICENSE.txt](LICENSE.txt) file.
+This library is copyright © 2019-2025 OpenFoodFacts. All rights reserved. Use of this library is governed by the MIT license which can be found in the [LICENSE.txt](LICENSE.txt) file.
 
 ## Documentation
 
 [Package documentation](https://godoc.org/github.com/openfoodfacts/openfoodfacts-go)
 
-[OpenFoodFacts API details](http://en.wiki.openfoodfacts.org/Project:API)
+[OpenFoodFacts API details](https://wiki.openfoodfacts.org/Project:API)
 
-[Go API wiki page](http://en.wiki.openfoodfacts.org/API/Go)
+[Go API wiki page](https://wiki.openfoodfacts.org/API/Go)
 
 ## Usage details
 
