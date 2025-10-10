@@ -1,4 +1,5 @@
 # Add labels to any any pull request with changes to the specified paths
 
-github:
-- .github/**/*
+GitHub:
+  - changed-files:
+      - any-glob-to-any-file: ".github/**/*"
