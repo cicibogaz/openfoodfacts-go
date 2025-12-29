@@ -5,14 +5,17 @@
 // from a barcode.
 //
 // To build this code, simply:
-//   go get
-//   go build
+//
+//	go get
+//	go build
 //
 // To specify the barcode to use, run the program with the "-code" flag, eg:
-//   ./simple-get-product -code "0737628064502"
+//
+//	./simple-get-product -code "0737628064502"
 //
 // For more detail:
-//   ./simple-get-product -help
+//
+//	./simple-get-product -help
 package main
 
 import (
